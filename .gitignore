@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
